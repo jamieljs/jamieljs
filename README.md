@@ -9,4 +9,4 @@
 
 ### 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/jamieljs)
-- [Resume (last updated Sep 23 2025)](./resume-2025-sep-23.pdf)
+- [Resume (last updated Sep 23 2025)](./resume-2025-09-23.pdf)
